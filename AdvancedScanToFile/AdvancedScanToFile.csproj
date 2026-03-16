@@ -47,43 +47,43 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage">
       <Name>Atalasoft.dotImage</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.AdvancedDocClean">
       <Name>Atalasoft.dotImage.AdvancedDocClean</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Lib">
       <Name>Atalasoft.dotImage.Lib</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Pdf">
       <Name>Atalasoft.dotImage.Pdf</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.Pdf.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfDoc.Bridge">
       <Name>Atalasoft.dotImage.PdfDoc.Bridge</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfReader">
       <Name>Atalasoft.dotImage.PdfReader</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.PdfReader.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.PdfReader.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.WinControls">
       <Name>Atalasoft.dotImage.WinControls</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.dotImage.WinControls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.dotImage.WinControls.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.DotTwain">
       <Name>Atalasoft.DotTwain</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.DotTwain.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.DotTwain.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.PdfDoc">
       <Name>Atalasoft.PdfDoc</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <Name>Atalasoft.Shared</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x86\Atalasoft.Shared.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x86\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
