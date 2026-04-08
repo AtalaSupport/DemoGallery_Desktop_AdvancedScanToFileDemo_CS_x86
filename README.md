@@ -3,7 +3,7 @@ This is a sample appliction for using Atalasoft DotImage Document Imaging
 to build a TWAIN scanning desktop windows forms application taht takes advantage 
 of our DotTwain and also our Winforms DocumentAnnotationViewer control
 
-This is the C# version
+This is the C# version. We also have a [VB.NET version]() available.  
 
 NOTE that there is no x64 version. This is due to the vast majority of scanner 
 drivers being native 32 bit.
